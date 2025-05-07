@@ -21,7 +21,8 @@ public class Assignment3_Amazon_Assertion {
 	
 	WebDriver driver;
     WebDriverWait wait;
-
+    
+//launch the chrome browser
     @BeforeClass
     public void setUp() {
     
